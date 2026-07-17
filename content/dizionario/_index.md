@@ -8,3 +8,5 @@ bookCollapseSection = true
 {{< katex />}}
 
 Una raccolta alfabetica di termini, concetti e fenomeni dell'astronomia e dell'astrofisica, corredati da esempi pratici di applicazione delle formule.
+
+{{< figura src="/immagini/dizionario.jpg" label="false" alt="Descrizione" caption="Crediti: Gemini" >}}

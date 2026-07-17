@@ -10,8 +10,11 @@
     loading="lazy"
   >
 
-  <figcaption>
-    <strong>Figura {{ $counter }}</strong> — {{ .Get "caption" }}
-  </figcaption>
+<figcaption>
+  {{ if ne (.Get "label") "false" }}
+    <strong>Figura {{ $counter }}</strong> — 
+  {{ end }}
+  {{ .Get "caption" }}
+</figcaption>
 
 </figure>
