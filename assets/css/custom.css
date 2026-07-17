@@ -43,3 +43,7 @@ html, body {
 .book-menu {
     min-height: 100vh;
 }
+
+.book-brand {
+    text-align: center;
+}
