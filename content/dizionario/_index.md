@@ -2,6 +2,7 @@
 title = "Dizionario pratico di astronomia e astrofisica"
 date = "2026-07-14"
 draft = false
+bookCollapseSection = true
 +++
 
 {{< katex />}}

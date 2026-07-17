@@ -23,3 +23,23 @@
 .book-footer {
     text-align: center;
 }
+
+.book-menu {
+    background-color: #dceaf5;
+}
+
+.book-search input {
+    background-color: #ffffff;
+}
+
+html, body {
+    height: 100%;
+}
+
+.book-page {
+    min-height: 100vh;
+}
+
+.book-menu {
+    min-height: 100vh;
+}
