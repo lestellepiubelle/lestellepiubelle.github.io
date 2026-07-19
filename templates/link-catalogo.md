@@ -1,0 +1,1 @@
+[Nome]({{< relref "/stelle/" >}})

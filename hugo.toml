@@ -22,3 +22,6 @@ theme = 'hugo-book'
           inline = [
             ["$", "$"]
           ]
+
+        [markup.goldmark.renderer]
+          unsafe = true
