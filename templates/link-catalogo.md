@@ -1,1 +1,1 @@
-[Nome]({{< relref "/stelle/" >}})
+[Nome]({{< relref "/stelle/<% tp.file.cursor() %>" >}})

@@ -1,1 +1,5 @@
-{{< figura src="immagini/nome-file.svg" alt="Descrizione dell'immagine" caption="Descrizione della figura." >}}
+{{< figura 
+src="immagini/<% tp.file.cursor() %>" 
+alt="descrizione immagine" 
+caption="didascalia"
+>}}
