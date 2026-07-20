@@ -14,7 +14,7 @@ Il termine "magnete" deriva dal latino *magnes*, a sua volta dal greco *Μάγν
 
 Un campo magnetico è una "perturbazione" dello spazio creata da cariche elettriche in movimento (cioè da correnti elettriche) o da materiali magnetici, in grado di esercitare una forza su *altre* cariche in movimento. Si tratta di un campo **vettoriale**, il che significa che in ogni suo punto è definito da un'intensità, una direzione e un verso.
 
-Campo elettrico e campo magnetico non sono entità indipendenti: sono le due facce di un'unica realtà, il **campo elettromagnetico**. Un campo puramente elettrico per un osservatore fermo appare parzialmente magnetico per un osservatore in moto, e viceversa — fatto che la relatività speciale di Einstein ha chiarito definitivamente.
+Campo elettrico e campo magnetico non sono entità indipendenti: sono le due facce di un'unica realtà, il **campo elettromagnetico**. Un campo puramente elettrico per un osservatore fermo appare parzialmente magnetico per un osservatore in moto, e viceversa, un fatto che la relatività speciale di Einstein ha chiarito definitivamente.
 
 ## La legge di Lorentz
 
