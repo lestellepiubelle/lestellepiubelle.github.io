@@ -104,7 +104,7 @@ $$
 
 Si può fare un confronto interessante tra l'energia irradiata dal Sole in un'ora sulla Terra e quella consumata in un anno dall'intera umanità.
 
-Secondo lo "[Statistical Review of World Energy 2026](https://www.energyinst.org/statistical-review)" dell'Energy Institute, il consumo mondiale di energia primaria nel 2025 ha raggiunto il record di $600$ exajoule (EJ). Convertendo in joule, otteniamo:
+Secondo lo "[Statistical Review of World Energy 2026](https://www.energyinst.org/statistical-review)" dell'Energy Institute, il consumo mondiale di energia primaria[^2] nel 2025 ha raggiunto il record di $600$ exajoule (EJ)[^3]. Convertendo in joule, otteniamo:
 
 $$
 600\; \text{EJ} = 6{,}00 \times 10^{20} \, \text{J}
@@ -173,3 +173,7 @@ La tabella seguente riporta in sintesi i valori chiave descritti in questa voce 
 | Flusso medio assorbito (albedo $0{,}30$)                     | $\approx 238\;\mathrm{W/m}^2$                                                      |
 
 [^1]: **Actinometro** (dal greco *aktís/aktínos*, "raggio", e *métron*, "misura") è un termine generico per indicare uno strumento usato per misurare l'intensità della radiazione, in particolare quella solare. È un termine in gran parte storico, oggi sostituito da denominazioni più specifiche. Quelli citati nell'articolo funzionavano con un principio calorimetrico, non fotoelettrico: un elemento annerito (per massimizzare l'assorbimento) veniva esposto alla radiazione solare diretta, e se ne misurava l'innalzamento di temperatura nel tempo con un termometro. L'actinometro di **Pouillet** (1837) usava un disco di rame annerito con un termometro inserito al centro: si misurava la velocità di riscaldamento del disco esposto al Sole, confrontandola con la velocità di raffreddamento a Sole schermato, per risalire al flusso radiativo assorbito. L'actinometro di **Herschel** (John Herschel, 1825) si basava su un principio simile ma usava un recipiente d'acqua annerito, misurando l'innalzamento di temperatura dell'acqua. Questi strumenti erano relativamente imprecisi: erano sensibili a perdite di calore, conduzione, vento. Furono perciò progressivamente sostituiti da strumenti più accurati basati su termopile, i **pireliometri**, come il pireliometro ad acqua di Ångström, poi i pireliometri a compensazione elettrica, che restano oggi lo standard per le misure di irraggiamento da terra, affiancati dai radiometri satellitari (TIM, ecc.) per le misure fuori atmosfera.
+
+[^2]: Sono le “materie prime” energetiche che la Terra ci offre. Esempi di fonti di energia primaria sono: il **petrolio greggio** estratto da un pozzo; il **gas naturale** così come esce da un giacimento; il **carbone** appena scavato da una miniera; l’**uranio** (combustibile nucleare) estratto dalla roccia; la **radiazione solare** che colpisce i pannelli; il **vento** che muove le pale eoliche; l’**acqua** in un bacino idroelettrico (energia potenziale).
+
+[^3]: Si noti che le stime del consumo energetico globale variano leggermente a seconda della fonte e della metodologia adottata.
