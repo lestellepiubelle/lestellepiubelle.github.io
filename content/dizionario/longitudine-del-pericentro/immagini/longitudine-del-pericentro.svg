@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="700"
+   height="500"
+   version="1.1"
+   id="svg21"
+   sodipodi:docname="Orbit1.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="Orbit1.png"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview21"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.562555"
+     inkscape:cx="296.18877"
+     inkscape:cy="158.43563"
+     inkscape:window-width="3840"
+     inkscape:window-height="2120"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="switch13-5" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="envelope"
+       id="path-effect51"
+       is_visible="true"
+       lpeversion="1"
+       yy="false"
+       xx="true"
+       bendpath1="M 171.22191,357.28848 H 309.63206"
+       bendpath2="m 309.63206,357.28848 v 14.09766"
+       bendpath3="M 171.22191,371.38614 H 309.63206"
+       bendpath4="m 171.22191,357.28848 v 14.09766" />
+    <inkscape:path-effect
+       effect="lattice2"
+       gridpoint0="171.22191,357.28848"
+       gridpoint1="309.63206,357.28848"
+       gridpoint2="171.22191,371.38614"
+       gridpoint3="309.63206,371.38614"
+       gridpoint4="205.82445,357.28848"
+       gridpoint5="275.02952,357.28848"
+       gridpoint6="205.82445,371.38614"
+       gridpoint7="275.02952,371.38614"
+       gridpoint8x9="240.42699,357.28848"
+       gridpoint10x11="240.42699,371.38614"
+       gridpoint12="171.22191,360.81289"
+       gridpoint13="309.63206,360.81289"
+       gridpoint14="171.22191,367.86173"
+       gridpoint15="309.63206,367.86173"
+       gridpoint16="205.82445,360.81289"
+       gridpoint17="275.02952,360.81289"
+       gridpoint18="205.82445,367.86173"
+       gridpoint19="275.02952,367.86173"
+       gridpoint20x21="240.42699,360.81289"
+       gridpoint22x23="240.42699,367.86173"
+       gridpoint24x26="171.22191,364.33731"
+       gridpoint25x27="309.63206,364.33731"
+       gridpoint28x30="205.82445,364.33731"
+       gridpoint29x31="275.02952,364.33731"
+       gridpoint32x33x34x35="240.42699,364.33731"
+       id="path-effect50"
+       is_visible="true"
+       lpeversion="1"
+       horizontal_mirror="true"
+       vertical_mirror="false"
+       perimetral="false"
+       live_update="true" />
+    <path
+       id="arrow"
+       d="M 0,0 -14,5 V -5 Z" />
+  </defs>
+  <path
+     fill="#f0f0a0"
+     stroke-width="1.83306"
+     d="M 258.01216,115.20392 A 142.4312,290.19819 45.567458 0 0 376.31489,391.0925"
+     fill-opacity="0.6"
+     stroke="#000000"
+     id="path1" />
+  <ellipse
+     rx="293.48865"
+     fill="#d2d2d2"
+     ry="140.83434"
+     cx="317.16354"
+     cy="253.14819"
+     stroke="none"
+     id="ellipse1"
+     style="stroke-width:0.96581;fill:#ffd5d5" />
+  <line
+     y2="267.69717"
+     stroke-width="1.11952"
+     x1="317.16354"
+     x2="629.46234"
+     stroke="#ff2020"
+     y1="253.14819"
+     id="line1" />
+  <use
+     transform="matrix(0.9756689,0.04545311,-0.04649113,0.95388495,629.46232,267.69717)"
+     fill="#ff2020"
+     xlink:href="#arrow"
+     id="use1" />
+  <path
+     fill="none"
+     stroke-width="2.40316"
+     d="M 344.97839,254.44401 A 27.945638,13.41008 0 1 0 322.79585,266.2831"
+     stroke="#17ab34"
+     id="path2" />
+  <use
+     transform="matrix(0.97618091,0.03332788,-0.03408899,0.95438553,322.79585,266.2831)"
+     fill="#17ab34"
+     xlink:href="#arrow"
+     id="use2" />
+  <path
+     fill="#f0f0a0"
+     stroke-width="1.83306"
+     d="M 258.01216,115.20392 A 142.4312,290.19819 45.567458 0 1 376.31489,391.0925"
+     fill-opacity="0.6"
+     stroke="#000000"
+     id="path3"
+     style="fill:#b3ff80" />
+  <line
+     y2="55.411457"
+     stroke-width="1.11952"
+     x1="317.16354"
+     x2="529.17908"
+     y1="253.14819"
+     stroke="#3a20ff"
+     id="line3" />
+  <line
+     y2="253.14819"
+     stroke-width="1.11952"
+     x1="382.52634"
+     x2="317.16354"
+     stroke="#ff2020"
+     y1="41.3251"
+     id="line4" />
+  <path
+     fill="none"
+     d="m 328.62859,279.88535 a 27.606824,56.247859 45.567458 0 0 29.629,-65.0636"
+     stroke-width="2.53237"
+     stroke="#6028ff"
+     id="path4" />
+  <use
+     transform="matrix(-0.26923594,-0.91797346,0.93893729,-0.26322465,358.2576,214.82176)"
+     fill="#6028ff"
+     xlink:href="#arrow"
+     id="use4" />
+  <path
+     fill="none"
+     d="m 358.25759,214.82175 a 27.606824,56.247859 45.567458 0 0 -28.42507,-2.7303"
+     stroke-width="2.31794"
+     stroke="#c20a0a"
+     id="path5" />
+  <use
+     transform="matrix(-0.93409547,0.27920541,-0.28558165,-0.91323974,329.83252,212.09146)"
+     fill="#c20a0a"
+     xlink:href="#arrow"
+     id="use5" />
+  <path
+     fill="none"
+     d="M 434.22645,382.29453 A 58.606556,57.298036 0 0 0 419.4556,352.30946"
+     stroke-width="2.03548"
+     stroke="#007d00"
+     id="path6" />
+  <use
+     transform="matrix(-0.5319903,-0.80090294,0.81919323,-0.52011245,419.45561,352.30946)"
+     fill="#007d00"
+     xlink:href="#arrow"
+     id="use6" />
+  <ellipse
+     cx="382.52634"
+     cy="41.3251"
+     id="circle6"
+     rx="7.7769828"
+     ry="7.6033444"
+     style="stroke-width:0.96581" />
+  <switch
+     id="switch6"
+     transform="matrix(0.97677594,0,0,0.95496727,145.07291,0.71444121)"
+     style="font-size:18px;font-family:'Lucida Sans Unicode'">
+    <text
+       x="17.318008"
+       fill="#17ab34"
+       y="307.79498"
+       id="trsvg17-nl"
+       systemLanguage="nl"><tspan
+         id="trsvg1-nl">Lengte van de klimmende knoop</tspan></text>
+    <text
+       x="17.318008"
+       fill="#17ab34"
+       y="307.79498"
+       id="trsvg17-ca"
+       systemLanguage="ca"><tspan
+         id="trsvg1-ca">Longitud del node ascendent</tspan></text>
+    <text
+       x="17.318008"
+       fill="#17ab34"
+       y="307.79498"
+       id="trsvg17-es"
+       systemLanguage="es"><tspan
+         id="trsvg1-es">longitud del nodo ascendente</tspan></text>
+    <text
+       x="17.318008"
+       fill="#17ab34"
+       y="307.79498"
+       id="trsvg17-ko"
+       systemLanguage="ko"><tspan
+         id="trsvg1-ko">승교점 경도</tspan></text>
+    <text
+       x="17.318008"
+       fill="#17ab34"
+       y="307.79498"
+       id="trsvg17-id"
+       systemLanguage="id"><tspan
+         id="trsvg1-id">Longitudo simpul naik</tspan></text>
+    <text
+       x="38.436832"
+       fill="#17ab34"
+       y="264.74136"
+       id="trsvg17"
+       style="text-align:center;text-anchor:middle;fill:#217867"><tspan
+         sodipodi:role="line"
+         id="tspan29"
+         x="38.436832"
+         y="264.74136"><tspan
+           id="trsvg1"
+           style="fill:#217867">Longitudine del</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="38.436832"
+         y="287.24136"
+         id="tspan32"><tspan
+           id="tspan33"
+           style="fill:#217867">nodo ascendente</tspan></tspan><tspan
+         sodipodi:role="line"
+         id="tspan30"
+         x="38.436832"
+         y="287.24136"><tspan
+           id="tspan31"
+           style="fill:#217867" /></tspan></text>
+  </switch>
+  <switch
+     id="switch7"
+     transform="matrix(0.97677594,0,0,0.95496727,139.80473,3.8363255)"
+     style="font-size:18px;font-family:'Lucida Sans Unicode'">
+    <text
+       x="254.02448"
+       fill="#6028ff"
+       y="214.59079"
+       id="trsvg18-nl"
+       systemLanguage="nl"><tspan
+         id="trsvg2-nl">Argument van het periapsis</tspan></text>
+    <text
+       x="254.02448"
+       fill="#6028ff"
+       y="214.59079"
+       id="trsvg18-ca"
+       systemLanguage="ca"><tspan
+         id="trsvg2-ca">Argument del periàpside</tspan></text>
+    <text
+       x="254.02448"
+       fill="#6028ff"
+       y="214.59079"
+       id="trsvg18-es"
+       systemLanguage="es"><tspan
+         id="trsvg2-es">argumento de periapsis</tspan></text>
+    <text
+       x="254.02448"
+       fill="#6028ff"
+       y="214.59079"
+       id="trsvg18-ko"
+       systemLanguage="ko"><tspan
+         id="trsvg2-ko">근일점 편각</tspan></text>
+    <text
+       x="254.02448"
+       fill="#6028ff"
+       y="214.59079"
+       id="trsvg18-id"
+       systemLanguage="id"><tspan
+         id="trsvg2-id">Argumen periapsis</tspan></text>
+    <text
+       x="254.02448"
+       fill="#6028ff"
+       y="214.59079"
+       id="trsvg18"><tspan
+         sodipodi:role="line"
+         id="tspan21"
+         x="254.02448"
+         y="214.59079"><tspan
+           id="trsvg2">Argomento</tspan></tspan><tspan
+         sodipodi:role="line"
+         id="tspan22"
+         x="254.02448"
+         y="237.09079"><tspan
+           id="tspan23">del pericentro</tspan></tspan></text>
+  </switch>
+  <switch
+     id="switch8"
+     transform="matrix(0.97677594,0,0,0.95496727,123.21972,26.274869)"
+     style="font-size:18px;font-family:'Lucida Sans Unicode'">
+    <text
+       x="69.097427"
+       fill="#c20a0a"
+       y="185.21548"
+       id="trsvg19-nl"
+       systemLanguage="nl"><tspan
+         id="trsvg3-nl">Ware anomalie</tspan></text>
+    <text
+       x="69.097427"
+       fill="#c20a0a"
+       y="185.21548"
+       id="trsvg19-ca"
+       systemLanguage="ca"><tspan
+         id="trsvg3-ca">Anomalia veritable</tspan></text>
+    <text
+       x="69.097427"
+       fill="#c20a0a"
+       y="185.21548"
+       id="trsvg19-es"
+       systemLanguage="es"><tspan
+         id="trsvg3-es">anomolía verdadera</tspan></text>
+    <text
+       x="69.097427"
+       fill="#c20a0a"
+       y="185.21548"
+       id="trsvg19-ko"
+       systemLanguage="ko"><tspan
+         id="trsvg3-ko">진근점 이각</tspan></text>
+    <text
+       x="69.097427"
+       fill="#c20a0a"
+       y="185.21548"
+       id="trsvg19-id"
+       systemLanguage="id"><tspan
+         id="trsvg3-id">Anomali sejati</tspan></text>
+    <text
+       x="175.59192"
+       fill="#c20a0a"
+       y="170.30022"
+       id="trsvg19"
+       style="text-align:center;text-anchor:middle"><tspan
+         sodipodi:role="line"
+         id="tspan24"
+         x="175.59192"
+         y="170.30022"><tspan
+           id="trsvg3">Anomalia</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="175.59192"
+         y="192.80022"
+         id="tspan27"><tspan
+           id="tspan28">vera</tspan></tspan><tspan
+         sodipodi:role="line"
+         id="tspan25"
+         x="175.59192"
+         y="192.80022"><tspan
+           id="tspan26" /></tspan></text>
+  </switch>
+  <switch
+     id="switch9"
+     transform="matrix(0.97677594,0,0,0.95496727,145.07291,0.71444121)"
+     style="font-size:18px;font-family:'Lucida Sans Unicode'">
+    <text
+       x="283.70532"
+       fill="#007d00"
+       y="412.63339"
+       id="trsvg20-nl"
+       systemLanguage="nl"><tspan
+         id="trsvg4-nl">Inclinatie</tspan></text>
+    <text
+       x="283.70532"
+       fill="#007d00"
+       y="412.63339"
+       id="trsvg20-ca"
+       systemLanguage="ca"><tspan
+         id="trsvg4-ca">Inclinació</tspan></text>
+    <text
+       x="283.70532"
+       fill="#007d00"
+       y="412.63339"
+       id="trsvg20-es"
+       systemLanguage="es"><tspan
+         id="trsvg4-es">inclinación</tspan></text>
+    <text
+       x="283.70532"
+       fill="#007d00"
+       y="412.63339"
+       id="trsvg20-ko"
+       systemLanguage="ko"><tspan
+         id="trsvg4-ko">경사</tspan></text>
+    <text
+       x="283.70532"
+       fill="#007d00"
+       y="412.63339"
+       id="trsvg20-id"
+       systemLanguage="id"><tspan
+         id="trsvg4-id">Inklinasi</tspan></text>
+    <text
+       x="298.11276"
+       fill="#007d00"
+       y="414.65604"
+       id="trsvg20"><tspan
+         id="trsvg4">Inclinazione</tspan></text>
+  </switch>
+  <switch
+     id="switch9-2"
+     transform="matrix(0.97677594,0,0,0.95496727,248.66464,-344.68804)"
+     style="font-size:18px;font-family:'Lucida Sans Unicode'">
+    <text
+       x="283.70532"
+       fill="#007d00"
+       y="412.63339"
+       id="trsvg20-nl-7"
+       systemLanguage="nl"><tspan
+         id="trsvg4-nl-6">Inclinatie</tspan></text>
+    <text
+       x="283.70532"
+       fill="#007d00"
+       y="412.63339"
+       id="trsvg20-ca-1"
+       systemLanguage="ca"><tspan
+         id="trsvg4-ca-4">Inclinació</tspan></text>
+    <text
+       x="283.70532"
+       fill="#007d00"
+       y="412.63339"
+       id="trsvg20-es-2"
+       systemLanguage="es"><tspan
+         id="trsvg4-es-3">inclinación</tspan></text>
+    <text
+       x="283.70532"
+       fill="#007d00"
+       y="412.63339"
+       id="trsvg20-ko-2"
+       systemLanguage="ko"><tspan
+         id="trsvg4-ko-2">경사</tspan></text>
+    <text
+       x="283.70532"
+       fill="#007d00"
+       y="412.63339"
+       id="trsvg20-id-1"
+       systemLanguage="id"><tspan
+         id="trsvg4-id-6">Inklinasi</tspan></text>
+    <text
+       x="294.15778"
+       fill="#007d00"
+       y="414.65604"
+       id="trsvg20-8"
+       style="fill:#008000"><tspan
+         id="trsvg4-5"
+         style="fill:#008000">Pericentro</tspan></text>
+  </switch>
+  <switch
+     id="switch10"
+     transform="matrix(0.97677594,0,0,0.95496727,145.07291,0.71444121)"
+     style="font-size:18px;font-family:'Lucida Sans Unicode';fill:#c837ab">
+    <text
+       x="209.34987"
+       fill="#ec4040"
+       y="450.19049"
+       id="trsvg21-nl"
+       systemLanguage="nl"
+       style="fill:#c837ab"><tspan
+         id="trsvg5-nl"
+         style="fill:#c837ab">Klimmende knoop</tspan></text>
+    <text
+       x="209.34987"
+       fill="#ec4040"
+       y="450.19049"
+       id="trsvg21-ca"
+       systemLanguage="ca"
+       style="fill:#c837ab"><tspan
+         id="trsvg5-ca"
+         style="fill:#c837ab">Node ascendent</tspan></text>
+    <text
+       x="209.34987"
+       fill="#ec4040"
+       y="450.19049"
+       id="trsvg21-es"
+       systemLanguage="es"
+       style="fill:#c837ab"><tspan
+         id="trsvg5-es"
+         style="fill:#c837ab">nodo ascendente</tspan></text>
+    <text
+       x="209.34987"
+       fill="#ec4040"
+       y="450.19049"
+       id="trsvg21-ko"
+       systemLanguage="ko"
+       style="fill:#c837ab"><tspan
+         id="trsvg5-ko"
+         style="fill:#c837ab">승교점</tspan></text>
+    <text
+       x="209.34987"
+       fill="#ec4040"
+       y="450.19049"
+       id="trsvg21-id"
+       systemLanguage="id"
+       style="fill:#c837ab"><tspan
+         id="trsvg5-id"
+         style="fill:#c837ab">Simpul naik</tspan></text>
+    <text
+       x="246.02065"
+       fill="#ec4040"
+       y="454.52475"
+       id="trsvg21"
+       style="text-align:center;text-anchor:middle;fill:#c837ab"><tspan
+         sodipodi:role="line"
+         id="tspan39"
+         x="246.02065"
+         y="454.52475"><tspan
+           id="trsvg5"
+           style="fill:#c837ab">Nodo</tspan></tspan><tspan
+         sodipodi:role="line"
+         id="tspan40"
+         x="246.02065"
+         y="477.02475"><tspan
+           id="tspan41"
+           style="fill:#c837ab">Ascendente</tspan></tspan></text>
+  </switch>
+  <switch
+     id="switch11"
+     transform="matrix(0.97677594,0,0,0.95496727,145.07291,0.71444121)"
+     style="font-size:18px;font-family:'Lucida Sans Unicode'">
+    <text
+       x="501.20322"
+       text-anchor="middle"
+       y="307.01874"
+       id="trsvg22-nl"
+       systemLanguage="nl"><tspan
+         id="trsvg6-nl">Referentie</tspan><tspan
+         x="501.20322"
+         dy="24"
+         id="trsvg7-nl">richting</tspan></text>
+    <text
+       x="501.20322"
+       text-anchor="middle"
+       y="307.01874"
+       id="trsvg22-ca"
+       systemLanguage="ca"><tspan
+         id="trsvg6-ca">Direcció de</tspan><tspan
+         x="501.20322"
+         dy="24"
+         id="trsvg7-ca">referència</tspan></text>
+    <text
+       x="501.20322"
+       text-anchor="middle"
+       y="307.01874"
+       id="trsvg22-es"
+       systemLanguage="es"><tspan
+         id="trsvg6-es">dirrección</tspan><tspan
+         x="501.20322"
+         dy="24"
+         id="trsvg7-es">de referencia</tspan></text>
+    <text
+       x="501.20322"
+       text-anchor="middle"
+       y="307.01874"
+       id="trsvg22-ko"
+       systemLanguage="ko"><tspan
+         id="trsvg6-ko">기준</tspan><tspan
+         x="501.20322"
+         dy="24"
+         id="trsvg7-ko">방향</tspan></text>
+    <text
+       x="501.20322"
+       text-anchor="middle"
+       y="307.01874"
+       id="trsvg22-id"
+       systemLanguage="id"><tspan
+         id="trsvg6-id">Arah</tspan><tspan
+         x="501.20322"
+         dy="24"
+         id="trsvg7-id">acuan</tspan></text>
+    <text
+       x="515.89319"
+       text-anchor="middle"
+       y="313.0867"
+       id="trsvg22"><tspan
+         sodipodi:role="line"
+         id="tspan37"
+         x="515.89319"
+         y="313.0867">Punto</tspan><tspan
+         sodipodi:role="line"
+         id="tspan38"
+         x="515.89319"
+         y="335.5867">vernale</tspan></text>
+  </switch>
+  <switch
+     id="switch12"
+     transform="matrix(0.97677594,0,0,0.95496727,145.07291,0.71444121)"
+     style="font-size:18px;font-family:'Lucida Sans Unicode'">
+    <text
+       x="109.41205"
+       y="29.742874"
+       id="trsvg23-nl"
+       systemLanguage="nl"><tspan
+         id="trsvg8-nl">Hemellichaam</tspan></text>
+    <text
+       x="109.41205"
+       y="29.742874"
+       id="trsvg23-ca"
+       systemLanguage="ca"><tspan
+         id="trsvg8-ca">Cos celeste</tspan></text>
+    <text
+       x="109.41205"
+       y="29.742874"
+       id="trsvg23-es"
+       systemLanguage="es"><tspan
+         id="trsvg8-es">cuerpo celeste</tspan></text>
+    <text
+       x="109.41205"
+       y="29.742874"
+       id="trsvg23-ko"
+       systemLanguage="ko"><tspan
+         id="trsvg8-ko">천체</tspan></text>
+    <text
+       x="109.41205"
+       y="29.742874"
+       id="trsvg23-id"
+       systemLanguage="id"><tspan
+         id="trsvg8-id">Benda langit</tspan></text>
+    <text
+       x="282.60907"
+       y="57.482113"
+       id="trsvg23"
+       style="text-align:center;text-anchor:middle"><tspan
+         sodipodi:role="line"
+         id="tspan34"
+         x="282.60907"
+         y="57.482113"><tspan
+           id="trsvg8">Corpo</tspan></tspan><tspan
+         sodipodi:role="line"
+         id="tspan35"
+         x="282.60907"
+         y="79.982117"><tspan
+           id="tspan36">celeste</tspan></tspan></text>
+  </switch>
+  <switch
+     id="switch13"
+     transform="matrix(0.97677594,0,0,0.95496727,145.07291,0.71444121)"
+     style="font-size:18px;font-family:'Lucida Sans Unicode'">
+    <text
+       x="67.469009"
+       y="368.44458"
+       transform="rotate(8.5048218,21.883804,65.563895)"
+       id="trsvg24-nl"
+       systemLanguage="nl"><tspan
+         id="trsvg9-nl">Referentievlak</tspan></text>
+    <text
+       x="67.469009"
+       y="368.44458"
+       transform="rotate(8.5048218,21.883804,65.563895)"
+       id="trsvg24-ca"
+       systemLanguage="ca"><tspan
+         id="trsvg9-ca">Pla de referència</tspan></text>
+    <text
+       x="67.469009"
+       y="368.44458"
+       transform="rotate(8.5048218,21.883804,65.563895)"
+       id="trsvg24-es"
+       systemLanguage="es"><tspan
+         id="trsvg9-es">plano de referencia</tspan></text>
+    <text
+       x="67.469009"
+       y="368.44458"
+       transform="rotate(8.5048218,21.883804,65.563895)"
+       id="trsvg24-ko"
+       systemLanguage="ko"><tspan
+         id="trsvg9-ko">기준면</tspan></text>
+    <text
+       x="67.469009"
+       y="368.44458"
+       transform="rotate(8.5048218,21.883804,65.563895)"
+       id="trsvg24-id"
+       systemLanguage="id"><tspan
+         id="trsvg9-id">Bidang acuan</tspan></text>
+    <text
+       x="151.56219"
+       y="356.6777"
+       transform="rotate(8.5048218)"
+       id="trsvg24"
+       style="text-align:center;text-anchor:middle;fill:#535d6c"><tspan
+         sodipodi:role="line"
+         id="tspan43"
+         x="151.56219"
+         y="356.6777">Piano di</tspan><tspan
+         sodipodi:role="line"
+         x="151.56219"
+         y="379.1777"
+         id="tspan45">riferimento</tspan></text>
+  </switch>
+  <switch
+     id="switch13-5"
+     transform="matrix(0.97677594,0,0,0.95496727,77.63382,84.503086)"
+     style="font-size:18px;font-family:'Lucida Sans Unicode'">
+    <text
+       x="67.469009"
+       y="368.44458"
+       transform="rotate(8.5048218,21.883804,65.563895)"
+       id="trsvg24-nl-4"
+       systemLanguage="nl"><tspan
+         id="trsvg9-nl-3">Referentievlak</tspan></text>
+    <text
+       x="67.469009"
+       y="368.44458"
+       transform="rotate(8.5048218,21.883804,65.563895)"
+       id="trsvg24-ca-1"
+       systemLanguage="ca"><tspan
+         id="trsvg9-ca-2">Pla de referència</tspan></text>
+    <text
+       x="67.469009"
+       y="368.44458"
+       transform="rotate(8.5048218,21.883804,65.563895)"
+       id="trsvg24-es-3"
+       systemLanguage="es"><tspan
+         id="trsvg9-es-3">plano de referencia</tspan></text>
+    <text
+       x="67.469009"
+       y="368.44458"
+       transform="rotate(8.5048218,21.883804,65.563895)"
+       id="trsvg24-ko-4"
+       systemLanguage="ko"><tspan
+         id="trsvg9-ko-1">기준면</tspan></text>
+    <text
+       x="67.469009"
+       y="368.44458"
+       transform="rotate(8.5048218,21.883804,65.563895)"
+       id="trsvg24-id-1"
+       systemLanguage="id"><tspan
+         id="trsvg9-id-3">Bidang acuan</tspan></text>
+    <text
+       x="109.97414"
+       y="376.3252"
+       transform="matrix(0.99924693,0.02376558,-0.02919803,1.0000592,0,0)"
+       id="trsvg24-8"
+       style="text-align:center;text-anchor:middle;fill:#2b1100"><tspan
+         sodipodi:role="line"
+         x="109.97414"
+         y="376.3252"
+         id="tspan45-4">Piano</tspan><tspan
+         sodipodi:role="line"
+         x="109.97414"
+         y="398.8252"
+         id="tspan51">dell'orbita</tspan></text>
+  </switch>
+  <switch
+     id="switch14"
+     transform="matrix(0.97659715,-0.0186879,0.01827065,0.95479247,144.77766,2.7178904)"
+     style="font-size:18px;font-family:'Lucida Sans Unicode'">
+    <text
+       x="-144.32684"
+       y="464.29181"
+       transform="rotate(-21.133941,2.2676405,-154.94021)"
+       id="trsvg25-nl"
+       systemLanguage="nl"><tspan
+         id="trsvg10-nl">Baan</tspan></text>
+    <text
+       x="-144.32684"
+       y="464.29181"
+       transform="rotate(-21.133941,2.2676405,-154.94021)"
+       id="trsvg25-ca"
+       systemLanguage="ca"><tspan
+         id="trsvg10-ca">Òrbita</tspan></text>
+    <text
+       x="-144.32684"
+       y="464.29181"
+       transform="rotate(-21.133941,2.2676405,-154.94021)"
+       id="trsvg25-es"
+       systemLanguage="es"><tspan
+         id="trsvg10-es">órbita</tspan></text>
+    <text
+       x="-144.32684"
+       y="464.29181"
+       transform="rotate(-21.133941,2.2676405,-154.94021)"
+       id="trsvg25-ko"
+       systemLanguage="ko"><tspan
+         id="trsvg10-ko">궤도</tspan></text>
+    <text
+       x="-144.32684"
+       y="464.29181"
+       transform="rotate(-21.133941,2.2676405,-154.94021)"
+       id="trsvg25-id"
+       systemLanguage="id"><tspan
+         id="trsvg10-id">Orbit</tspan></text>
+  </switch>
+  <switch
+     id="switch15"
+     transform="matrix(0.97677594,0,0,0.95496727,144.09732,13.592214)"
+     style="font-size:25px;font-family:'Lucida Sans Unicode'">
+    <text
+       x="120.31801"
+       fill="#17ab34"
+       y="261.79498"
+       id="trsvg26"><tspan
+         id="trsvg11">Ω</tspan></text>
+  </switch>
+  <switch
+     id="switch16"
+     transform="matrix(0.97677594,0,0,0.95496727,138.57856,18.283163)"
+     style="font-size:25px;font-family:'Lucida Sans Unicode'">
+    <text
+       x="234.02448"
+       fill="#6028ff"
+       y="239.59079"
+       id="trsvg27"><tspan
+         id="trsvg12">ω</tspan></text>
+  </switch>
+  <switch
+     id="switch17"
+     transform="matrix(0.97677594,0,0,0.95496727,144.09732,13.592214)"
+     style="font-size:25px;font-family:'Lucida Sans Unicode'">
+    <text
+       x="209.09743"
+       fill="#c20a0a"
+       y="195.24765"
+       id="trsvg28"><tspan
+         id="trsvg13">ν</tspan></text>
+  </switch>
+  <switch
+     id="switch18"
+     transform="matrix(0.97677594,0,0,0.95496727,144.09732,13.592214)"
+     style="font-size:25px;font-family:'Lucida Sans Unicode'">
+    <text
+       font-style="italic"
+       x="271.45889"
+       fill="#007d00"
+       y="389.56311"
+       id="trsvg29"><tspan
+         id="trsvg14">i</tspan></text>
+  </switch>
+  <switch
+     id="switch19"
+     transform="matrix(0.97677594,0,0,0.95496727,143.54544,7.5215738)"
+     style="font-size:25px;font-family:'Lucida Sans Unicode';fill:#aad400;stroke:#c87137">
+    <text
+       x="233.34987"
+       fill="#ec4040"
+       y="426.19049"
+       id="trsvg30"
+       style="fill:#aad400;stroke:#c87137"><tspan
+         id="trsvg15"
+         style="fill:#aad400;stroke:#c87137">☊</tspan></text>
+  </switch>
+  <switch
+     id="switch20"
+     transform="matrix(0.97677594,0,0,0.95496727,144.09732,13.592214)"
+     style="font-size:25px;font-family:'Lucida Sans Unicode';fill:#008000">
+    <text
+       x="503.20322"
+       y="281.01874"
+       id="trsvg31"
+       style="fill:#008000"><tspan
+         id="trsvg16"
+         style="fill:#008000">♈︎</tspan></text>
+  </switch>
+</svg>
