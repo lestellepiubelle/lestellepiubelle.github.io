@@ -8,7 +8,7 @@ draft = false
 
 ## Etimologia
 
-Il termine **fotoionizzazione** unisce il prefisso *foto-* (dal greco *phôs, phôtós*, "luce") al sostantivo **ionizzazione**, a sua volta derivato da **ione** (dal greco *ión*, participio presente di *iénai*, "andare"), termine coniato da Michael Faraday negli anni 1830 per indicare le particelle cariche che "vanno" verso gli elettrodi in una soluzione elettrolitica.
+Il termine **fotoionizzazione** unisce il prefisso *foto-* (dal greco *phôs, phôtós*, "luce") al sostantivo **ionizzazione**, a sua volta derivato da **ione** (dal greco *ión*, participio presente di *iénai*, "andare"), termine coniato da Michael Faraday intorno al 1830 per indicare le particelle cariche che "vanno" verso gli elettrodi in una soluzione elettrolitica.
 
 ## Definizione
 
