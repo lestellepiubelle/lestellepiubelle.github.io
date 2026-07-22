@@ -38,7 +38,7 @@ Questa robustezza rende $\varpi$ la quantità naturale a cui fare riferimento in
 
 ## Rapporto con i sei elementi kepleriani classici
 
-Nel set classico degli elementi orbitali kepleriani ($a$, $e$, $i$, $\Omega$, $\omega$, $M_0$) $\varpi$ non è un settimo elemento indipendente né sostituisce alcuno dei sei. È piuttosto una **quantità derivata**, ottenuta come somma di due elementi già presenti nell'insieme. Tuttavia, per le ragioni di oscillazione e aleatorietà dei valori di $\Omega$ e $\omega$ appena esposte, in meccanica celeste planetaria si preferisce spesso usare parametri alternativi a quelli classici, ad essi equivalenti, ma meglio tarati per funzionare alle basse inclinazioni:
+Nel set classico degli [elementi orbitali kepleriani]({{< relref "/dizionario/elementi-orbitali-classici-o-kepleriani/" >}}) ($a$, $e$, $i$, $\Omega$, $\omega$, $M_0$) $\varpi$ non è un settimo elemento indipendente né sostituisce alcuno dei sei. È piuttosto una **quantità derivata**, ottenuta come somma di due elementi già presenti nell'insieme. Tuttavia, per le ragioni di oscillazione e aleatorietà dei valori di $\Omega$ e $\omega$ appena esposte, in meccanica celeste planetaria si preferisce spesso usare parametri alternativi a quelli classici, ad essi equivalenti, ma meglio tarati per funzionare alle basse inclinazioni:
 
 $$\{a, e, i, \Omega, \varpi, \varepsilon\},$$
 
